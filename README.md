@@ -5,8 +5,9 @@
 ###### My Coding Philosophy:
 
 - I like to write code by myself.
-- I like to use AI as senior mentor for guidance and feedback.
+- I like to use AI as a senior mentor for getting guidance and feedback.
 
+---
 
 <!--
 **theabraham2000/theabraham2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
