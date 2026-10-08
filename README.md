@@ -1,11 +1,6 @@
 ## Abraham Mathews
 
-#### Studying Machine Learning and Rust.
-
-###### My Coding Philosophy:
-
-- I like to write code by myself.
-- I like to use AI as a senior mentor for getting guidance and feedback.
+###### Temporarily Unavailable
 
 ---
 
